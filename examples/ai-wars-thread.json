@@ -1,0 +1,17 @@
+[
+  "1/8\n\nYesterday, OpenAI dropped Codex 5.3 and Anthropic dropped Opus 4.6.\n\nBoth at 10am Pacific. Same day. Same minute.\n\nThis is the AI arms race in real time and I genuinely cannot keep up anymore.",
+
+  "2/8\n\nLet that sink in:\n\n- Codex 5.3 helped build itself (used early versions to debug its own training)\n- Opus 4.6 can spawn teams of AI agents that coordinate and split work autonomously\n\nThese aren't incremental updates. The capabilities are getting weird.",
+
+  "3/8\n\nCodex 5.3 is also the first model OpenAI has flagged as \"High\" cybersecurity risk under their own safety framework.\n\nWe've crossed a threshold where the companies building these models are openly saying \"this one's different\" from a security standpoint.\n\nThat's... something.",
+
+  "4/8\n\nMeanwhile Opus 4.6 just casually ships with a 1M token context window.\n\nThat's roughly 3,000 pages of text. An entire codebase. Multiple books.\n\nA year ago we were excited about 100K tokens.",
+
+  "5/8\n\nThe benchmark wars are wild too:\n\n- Codex 5.3: 77.3% on Terminal-Bench 2.0 (up from 64%)\n- Opus 4.6: leads on Humanity's Last Exam\n- Codex is 25% faster, uses 2x fewer tokens\n- Opus leads on multi-agent and architectural reasoning\n\nNeither is a clear winner. Both are insane.",
+
+  "6/8\n\nSimon Willison put it perfectly: both models are really good, but so were their predecessors.\n\nThe gap between \"great\" and \"slightly greater\" is getting harder to articulate. But the compound effect of these improvements every few months is transformative.",
+
+  "7/8\n\nOh and both companies are running Super Bowl ads this Sunday.\n\nAI companies competing for ad spots during the Super Bowl. In 2026.\n\nIf you told me this 3 years ago I would have laughed.",
+
+  "8/8\n\nWe're in an era where:\n\n- Models help build their successors\n- AI agents coordinate in teams autonomously\n- Two labs ship frontier models same day\n- The bottleneck is human attention, not compute\n\nThe pace isn't slowing down. It's accelerating.\n\nBuckle up."
+]

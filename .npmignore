@@ -1,0 +1,7 @@
+tests/
+examples/
+docs/
+.github/
+.gitignore
+.eslintrc*
+.prettierrc*

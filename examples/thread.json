@@ -1,0 +1,7 @@
+[
+  "I just built a CLI tool for Twitter and here's what I learned (thread)",
+  "First: the official API v2 is actually great. OAuth 1.0a with PIN-based flow means you can auth entirely from the terminal -- no browser redirects, no callback servers.",
+  "Second: threads are just tweets with in_reply_to_tweet_id set to the previous tweet. Post them sequentially with a small delay between each and you're golden.",
+  "Third: rate limits on the free tier are tight (50 tweets/day) but totally workable for personal use. The API returns limit headers so you always know where you stand.",
+  "The tool is called galah (named after the Australian pink cockatoo). It's open source and built with Node.js. Give it a try if you live in the terminal like I do."
+]

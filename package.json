@@ -1,0 +1,47 @@
+{
+  "name": "galah-cli",
+  "version": "0.1.0",
+  "description": "A chatty Twitter/X CLI that won't get you banned. Uses official API v2.",
+  "type": "module",
+  "bin": {
+    "galah": "./bin/galah.js"
+  },
+  "main": "src/index.js",
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node bin/galah.js",
+    "test": "node --test tests/"
+  },
+  "keywords": [
+    "twitter",
+    "cli",
+    "x",
+    "social-media",
+    "tweet",
+    "thread",
+    "api-v2",
+    "terminal"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulchamberlain/galah.git"
+  },
+  "dependencies": {
+    "boxen": "^7.1.0",
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.3",
+    "commander": "^11.0.0",
+    "conf": "^12.0.0",
+    "inquirer": "^9.2.0",
+    "ora": "^7.0.0",
+    "time-ago": "^0.2.1",
+    "twitter-api-v2": "^1.15.0",
+    "wrap-ansi": "^9.0.0"
+  }
+}
